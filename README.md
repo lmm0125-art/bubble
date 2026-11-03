@@ -1,7 +1,6 @@
 # bubble — team workspace
 
-Team `bubble` for **Machine Learning (IC-PBL), 2025-Fall**, Hanyang University
-ERICA (Prof. Yongjae Yoo, industry mentor Dr. Young Hoon Ji, Hexar Humancare).
+Team `bubble` for **Machine Learning (IC-PBL), 2025-Fall**, Hanyang University (Prof. Yongjae Yoo, industry mentor Dr. Young Hoon Ji, Hexar Humancare).
 
 This repository holds the team-level deliverables: the written report and the
 mentoring documents. The code lives in two separate repositories.
